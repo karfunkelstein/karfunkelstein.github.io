@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://karfunkelstein.github.io
 title: karfunkelstein
-tagline: In was für einer Welt wollen wir leben?
-description: In diesem Blog beschäftige ich mich mit dem Aufeinandertreffen von persönlicher und gesellschaftlicher Zukunft.
+tagline: In was f&uuml;r einer Welt wollen wir leben?
+description: In diesem Blog besch&auml;ftige ich mich mit dem Aufeinandertreffen von pers&ouml;nlicher und gesellschaftlicher Zukunft.
 paginate: 5
